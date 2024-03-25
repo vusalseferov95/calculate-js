@@ -1,0 +1,55 @@
+.flex {
+    display: flex;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.align-start {
+    align-items: start;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.justify-start {
+    justify-content: start;
+}
+
+.relative {
+    position: relative;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.color-white {
+    color: #fff;
+}
+
+.color-black {
+    color: #000;
+}
+
+.gap5 {
+    gap: 5px;
+}
+
+.gap10 {
+    gap: 10px;
+}
+
+.gap15 {
+    gap: 15px;
+}
+
+.gap20 {
+    gap: 20px;
+}
